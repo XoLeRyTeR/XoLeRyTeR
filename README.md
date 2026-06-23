@@ -8,7 +8,9 @@
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=445f9d&logoColor=white&style=for-the-badge" height="25" alt="codeforces logo" />
   </a>
 </div>
-
+<p align="center">
+  <img src="assets/photo_2026-06-23_11-18-50.jpg" width="500">
+</p>
 ML Engineer | Python Developer | Competitive Programmer
 
 ## 🚀 О себе
