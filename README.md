@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет! Я Андрей 👋
+<div align="center">
+  <a href="https://t.me/XoLeRyTeR" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>
 
-<!--
-**XoLeRyTeR/XoLeRyTeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://codeforces.com/profile/XoLeRyTeR" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=445f9d&logoColor=white&style=for-the-badge" height="25" alt="codeforces logo" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+ML Engineer | Python Developer | Competitive Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 О себе
+
+- 🎓 Студент
+- 🤖 Занимаюсь Machine Learning и AI
+- 🏆 Codeforces: 1700+
+- 📈 Разрабатываю системы прогнозирования и AI-агентов
+
+## 🛠️ Стек технологий
+Python, C++, PostgreSQL, FastAPI,
