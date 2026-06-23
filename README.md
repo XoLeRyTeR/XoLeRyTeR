@@ -35,6 +35,7 @@ ML Engineer | Python Developer | Competitive Programmer
 - 🔗 https://elibrary.ru/item.asp?id=88870520  
 
 </p>
+
 ## 🏆 Достижения
 
 <p align="center">
